@@ -1,2 +1,1 @@
-hello, this test project was born on 2016/01/13
-bye
+这样修改就会有冲突了

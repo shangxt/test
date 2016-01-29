@@ -13,3 +13,5 @@ Local change 2
 add from TsinghuaREAL remote repository
 
 Local change3
+
+rebase remote public repository change 1

@@ -25,3 +25,5 @@ rebase remote public repository change 1
 增加开发分支修改3-远程版本库
 
 测试pull --rebase与pull的区别
+
+增加分支Issue-002

@@ -31,3 +31,5 @@ rebase remote public repository change 1
 增加Issue-001分支
 
 Issue004
+
+增加分支Issue-002
